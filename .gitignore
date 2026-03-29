@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.Python
+
+# Virtual Environment
+venv/
+env/
+.venv/
+
+# Logs (optional - remove this line if you want to track logs)
+logs/
+
+# Processed files
+done/success/
+done/error/
+done/new/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
